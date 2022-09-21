@@ -1,2 +1,1 @@
-# kybikn-JSFEPRESCHOOL
-Private repository for @kybikn
+https://kybikn.github.io/random-jokes/random-jokes
